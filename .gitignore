@@ -1,0 +1,62 @@
+## Build Results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+
+## Rider
+.idea/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Microsoft Azure
+*.azurePubxml
+*.azurePubxml.user
+PublishProfiles/
+
+## IIS Express
+.vs/
+*.vspscc
+*.vssscc
+iisexpress/
+*.dbmdl
+
+## Logs
+*.log
+
+## Environment settings
+appsettings.*.json
+!appsettings.Development.json
+
+## Others
+_ReSharper*/
+*.DotSettings.user
+TestResults/
+*.cache
+*.pdb
+*.pidb
+*.svclog
+*.sdf
+*.orig
+
+# OS generated files
+.DS_Store
+Thumbs.db
